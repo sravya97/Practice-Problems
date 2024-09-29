@@ -27,4 +27,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0077-combinations](https://github.com/sravya97/Practice-Problems/tree/master/0077-combinations) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
