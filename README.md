@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sravya97/Practice-Problems/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
