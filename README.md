@@ -80,17 +80,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
