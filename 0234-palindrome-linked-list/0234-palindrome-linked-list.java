@@ -17,7 +17,6 @@ class Solution {
             slow = slow.next;
         }
         ListNode reversed = reverse(slow);
-        System.out.println(reversed.val);
         while(head != null && reversed != null){
             if(head.val != reversed.val){
                 return false;
