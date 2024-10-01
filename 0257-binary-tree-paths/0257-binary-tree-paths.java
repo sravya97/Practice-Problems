@@ -15,26 +15,23 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> result = new ArrayList<>();
-        if(root == null){
-            return result;
-        }
-        backtrack(root, result, "");
+        List<String> result = new ArrayList();
+        dfs(root, "", result);
         return result;
     }
-    
-    public void backtrack(TreeNode root, List<String> result, String current){
-        if(root.left == null && root.right == null){
-            result.add(current + root.val);
+
+    public void dfs(TreeNode root, String curr, List<String> result){
+        if(root == null){
             return;
         }
-        current += String.valueOf(root.val);
-        current += "->";
-        if(root.left != null){
-            backtrack(root.left, result, current);
+        
+        curr += root.val;
+        if(root.left == null && root.right == null){
+            result.add(curr);
+            return;
         }
-        if(root.right != null){
-            backtrack(root.right, result, current);
-        }
+        
+        dfs(root.left, curr + "->", result);
+        dfs(root.right, curr + "->", result);
     }
 }
