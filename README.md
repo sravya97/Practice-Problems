@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/sravya97/Practice-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sravya97/Practice-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
 |  |
@@ -120,9 +123,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
