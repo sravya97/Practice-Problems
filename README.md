@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sravya97/Practice-Problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sravya97/Practice-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sravya97/Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sravya97/Practice-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Tree
 |  |
