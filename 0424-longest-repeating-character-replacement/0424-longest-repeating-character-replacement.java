@@ -1,5 +1,12 @@
 class Solution {
     public int characterReplacement(String s, int k) {
+        /*
+        Have a window from start to end.
+        Keep track of most frequent letter
+        The number of characters to replace = window size - most frequent letter
+        if(number of chars to replace is > k) -> then shift the window
+        keep track of max window size
+        */
         int start = 0;
         int[] count = new int[26];
         int maxSize = 0;
