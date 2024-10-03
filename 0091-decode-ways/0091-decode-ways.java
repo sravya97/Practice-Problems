@@ -1,25 +1,22 @@
 class Solution {
     public int numDecodings(String s) {
-        int[] dp = new int[s.length()];
-        Arrays.fill(dp, -1);
-        return countTimes(s, 0, dp);
-    }
-    
-    public int countTimes(String s, int curr, int[] dp){
-        if(curr == s.length()){
-            return 1;
-        } 
-        if(s.charAt(curr) == '0'){
+        if(s==null || s.length()==0){
             return 0;
         }
-        if(dp[curr] != -1){
-            return dp[curr];
+        int[] dp = new int[s.length()+1];
+        if(s.charAt(0)!='0'){
+            dp[0]=1;
+            dp[1]=1;
         }
-        int count = countTimes(s, curr+1, dp);
-        if(curr < s.length()-1 && Integer.parseInt(s.substring(curr, curr+2)) < 27)         {
-            count += countTimes(s, curr+2, dp);
+        for(int i=2;i<=s.length();i++){
+            if(s.charAt(i-1)!='0'){
+                dp[i] += dp[i-1];
+            }
+            int num = Integer.valueOf(s.substring(i-2, i));
+            if(num > 9 && num < 27){
+                dp[i] += dp[i-2];
+            }
         }
-        dp[curr] = count;
-        return dp[curr];
+        return dp[s.length()];
     }
 }
