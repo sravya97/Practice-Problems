@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sravya97/Practice-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sravya97/Practice-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/sravya97/Practice-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/sravya97/Practice-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sravya97/Practice-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sravya97/Practice-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
@@ -197,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
