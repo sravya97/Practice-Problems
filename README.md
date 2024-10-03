@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/sravya97/Practice-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
 ## Hash Function
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sravya97/Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search Tree
 |  |
