@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
+| [0688-knight-probability-in-chessboard](https://github.com/sravya97/Practice-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
