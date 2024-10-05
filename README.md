@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sravya97/Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sravya97/Practice-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sravya97/Practice-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sravya97/Practice-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sravya97/Practice-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
