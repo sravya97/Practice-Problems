@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/sravya97/Practice-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0657-robot-return-to-origin](https://github.com/sravya97/Practice-Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
+| [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Hash Function
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sravya97/Practice-Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
+| [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sravya97/Practice-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
@@ -219,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
