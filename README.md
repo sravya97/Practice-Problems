@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sravya97/Practice-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0643-maximum-average-subarray-i](https://github.com/sravya97/Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0720-longest-word-in-dictionary](https://github.com/sravya97/Practice-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sravya97/Practice-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/sravya97/Practice-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sravya97/Practice-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0572-subtree-of-another-tree](https://github.com/sravya97/Practice-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0657-robot-return-to-origin](https://github.com/sravya97/Practice-Problems/tree/master/0657-robot-return-to-origin) |
+| [0720-longest-word-in-dictionary](https://github.com/sravya97/Practice-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Hash Function
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sravya97/Practice-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0720-longest-word-in-dictionary](https://github.com/sravya97/Practice-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -231,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/sravya97/Practice-Problems/tree/master/0720-longest-word-in-dictionary) |
 ## Union Find
 |  |
 | ------- |
