@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/sravya97/Practice-Problems/tree/master/1036-rotting-oranges) |
+| [1511-count-number-of-teams](https://github.com/sravya97/Practice-Problems/tree/master/1511-count-number-of-teams) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sravya97/Practice-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0688-knight-probability-in-chessboard](https://github.com/sravya97/Practice-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [1511-count-number-of-teams](https://github.com/sravya97/Practice-Problems/tree/master/1511-count-number-of-teams) |
 ## Queue
 |  |
 | ------- |
@@ -245,4 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/sravya97/Practice-Problems/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/sravya97/Practice-Problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
