@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/sravya97/Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sravya97/Practice-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/sravya97/Practice-Problems/tree/master/0817-design-hashmap) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/sravya97/Practice-Problems/tree/master/1036-rotting-oranges) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 | [0688-knight-probability-in-chessboard](https://github.com/sravya97/Practice-Problems/tree/master/0688-knight-probability-in-chessboard) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -235,4 +237,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
+## Greedy
+|  |
+| ------- |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
