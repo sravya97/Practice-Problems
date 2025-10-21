@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sravya97/Practice-Problems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sravya97/Practice-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
