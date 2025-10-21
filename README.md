@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sravya97/Practice-Problems/tree/master/0009-palindrome-number) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Greedy
 |  |
