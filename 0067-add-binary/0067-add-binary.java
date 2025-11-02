@@ -1,21 +1,21 @@
 class Solution {
     public String addBinary(String a, String b) {
         String result = "";
+        int curr1 = a.length() - 1;
+        int curr2 = b.length() - 1;
         int carry = 0;
-        int p1 = a.length() - 1;
-        int p2 = b.length() - 1;
-        while(p1 >= 0 || p2 >= 0 || carry != 0){
-            if(p1 >= 0){
-                carry += a.charAt(p1) - '0';
-                p1--;
+        while(curr1 >= 0 || curr2 >= 0 || carry > 0){
+            if(curr1 >= 0){
+                carry = carry + (a.charAt(curr1) - '0');
+                curr1--;
             }
-            if(p2 >= 0){
-                carry += b.charAt(p2) - '0';
-                p2--;
+            if(curr2 >= 0){
+                carry = carry + (b.charAt(curr2) - '0');
+                curr2--;
             }
-            result = carry % 2 + result;
+            result = (carry % 2) + result;
             carry = carry / 2;
         }
         return result;
-        }
+    }
 }
