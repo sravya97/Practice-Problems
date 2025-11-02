@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/sravya97/Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sravya97/Practice-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sravya97/Practice-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/sravya97/Practice-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/sravya97/Practice-Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/sravya97/Practice-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sravya97/Practice-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Greedy
 |  |
