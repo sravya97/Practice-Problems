@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sravya97/Practice-Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/sravya97/Practice-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sravya97/Practice-Problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sravya97/Practice-Problems/tree/master/0066-plus-one) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Greedy
 |  |
