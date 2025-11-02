@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sravya97/Practice-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/sravya97/Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
