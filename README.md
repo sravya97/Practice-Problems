@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sravya97/Practice-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/sravya97/Practice-Problems/tree/master/0338-counting-bits) |
 | [0688-knight-probability-in-chessboard](https://github.com/sravya97/Practice-Problems/tree/master/0688-knight-probability-in-chessboard) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sravya97/Practice-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sravya97/Practice-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sravya97/Practice-Problems/tree/master/0070-climbing-stairs) |
 | [1119-robot-bounded-in-circle](https://github.com/sravya97/Practice-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Greedy
 |  |
@@ -278,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/sravya97/Practice-Problems/tree/master/1511-count-number-of-teams) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sravya97/Practice-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
