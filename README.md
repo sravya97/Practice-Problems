@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sravya97/Practice-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/sravya97/Practice-Problems/tree/master/0874-backspace-string-compare) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
