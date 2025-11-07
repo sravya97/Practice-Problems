@@ -15,25 +15,25 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if(root== null){
+        if(root == null){
             return true;
         }
-        return checkSymmetry(root.left, root.right);
-        
+        return check(root.left, root.right) && check(root.right, root.left);
+
     }
-    
-    public boolean checkSymmetry(TreeNode left, TreeNode right){
-        if(left == null && right == null){
+
+    public boolean check(TreeNode tree1, TreeNode tree2){
+        if(tree1 == null && tree2 == null){
             return true;
-        } else if(left == null){
+        } else if(tree1 == null){
             return false;
-        } else if(right == null){
-            return false;
-        } else if(left.val != right.val){
+        } else if(tree2 == null){
             return false;
         } else {
-            return checkSymmetry(left.left, right.right) && 
-                checkSymmetry(left.right, right.left);
+            if(tree1.val != tree2.val){
+                return false;
+            } 
+            return check(tree1.left, tree2.right) && check(tree1.right, tree2.left);
         }
     }
 }
