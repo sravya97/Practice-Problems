@@ -13,18 +13,18 @@ class Solution {
         if(head == null){
             return head;
         }
+        ListNode temp = head;
         ListNode prev = head;
-        ListNode curr = head.next;
-        int val = head.val;
-        while(curr != null){
-            if(val == curr.val){
-                prev.next = curr.next;
-            } else{
-                val = curr.val;
-                prev = curr;
+        ListNode running = head.next;
+        while(running != null){
+            if(prev.val != running.val){
+                prev.next = running;
+                prev = running;
+            } else {
+                prev.next = null;
             }
-            curr = curr.next;
+            running = running.next;
         }
-        return head;
+        return temp;
     }
 }
