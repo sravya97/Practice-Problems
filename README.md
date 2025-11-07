@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/sravya97/Practice-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sravya97/Practice-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
