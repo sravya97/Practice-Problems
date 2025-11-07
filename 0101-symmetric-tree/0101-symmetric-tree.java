@@ -18,7 +18,7 @@ class Solution {
         if(root == null){
             return true;
         }
-        return check(root.left, root.right) && check(root.right, root.left);
+        return check(root.left, root.right);
 
     }
 
