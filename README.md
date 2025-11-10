@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sravya97/Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sravya97/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sravya97/Practice-Problems/tree/master/0200-number-of-islands) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sravya97/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sravya97/Practice-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sravya97/Practice-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sravya97/Practice-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sravya97/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/sravya97/Practice-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sravya97/Practice-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sravya97/Practice-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sravya97/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sravya97/Practice-Problems/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sravya97/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sravya97/Practice-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Trie
 |  |
