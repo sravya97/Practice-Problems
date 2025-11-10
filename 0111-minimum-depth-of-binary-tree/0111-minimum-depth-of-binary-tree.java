@@ -17,14 +17,20 @@ class Solution {
     public int minDepth(TreeNode root) {
         if(root == null){
             return 0;
-        }else if(root.left == null && root.right == null){
-            return 1;
-        } else if(root.left == null){
-            return 1 + minDepth(root.right);
-        } else if (root.right == null){
-            return 1 + minDepth(root.left);
         } else {
-            return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
+            return depth(root, 1);
+        }
+    }
+
+    public int depth(TreeNode root, int height){
+        if(root.left == null && root.right == null){
+            return height; 
+        } else if(root.left == null){
+            return depth(root.right, height + 1);
+        } else if(root.right == null){
+            return depth(root.left, height + 1);
+        } else {
+            return Math.min(depth(root.right, height + 1), depth(root.left, height + 1));
         }
     }
 }
