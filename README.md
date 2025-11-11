@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sravya97/Practice-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sravya97/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sravya97/Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sravya97/Practice-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sravya97/Practice-Problems/tree/master/0234-palindrome-linked-list) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/sravya97/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sravya97/Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sravya97/Practice-Problems/tree/master/0443-string-compression) |
