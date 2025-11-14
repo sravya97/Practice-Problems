@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sravya97/Practice-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sravya97/Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sravya97/Practice-Problems/tree/master/0035-search-insert-position) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sravya97/Practice-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sravya97/Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sravya97/Practice-Problems/tree/master/0061-rotate-list) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sravya97/Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sravya97/Practice-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Heap (Priority Queue)
 |  |
