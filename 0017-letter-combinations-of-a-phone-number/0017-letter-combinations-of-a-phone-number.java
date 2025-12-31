@@ -1,32 +1,31 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        Map<Character, String> map = new HashMap<>();
-        map.put('2', "abc");
-        map.put('3', "def");
-        map.put('4', "ghi");
-        map.put('5', "jkl");
-        map.put('6', "mno");
-        map.put('7', "pqrs");
-        map.put('8', "tuv");
-        map.put('9', "wxyz");
         List<String> result = new ArrayList<>();
-        getCombos(digits, 0, "", result, map);
+        Map<Integer, String> map = new HashMap<>();
+        map.put(2, "abc");
+        map.put(3, "def");
+        map.put(4, "ghi");
+        map.put(5, "jkl");
+        map.put(6, "mno");
+        map.put(7, "pqrs");
+        map.put(8, "tuv");
+        map.put(9, "wxyz");
+        backtrack(result, digits, map, "", 0);
         return result;
     }
-    
-    public void getCombos(String digits, int pos, String curr, List<String> result, Map<Character, String> map){
-        if(pos == digits.length()){
-            if(!curr.isEmpty()){
-                  result.add(curr);
-            }
+
+    public void backtrack(List<String> result, String digits, Map<Integer, String> map, String current, int point){
+        if(point == digits.length()){
+            result.add(current);
             return;
-        } 
-        char ch = digits.charAt(pos);
-        String values = map.get(ch);
-        for(int j=0;j<values.length();j++){
-            curr += values.charAt(j);
-            getCombos(digits, pos + 1, curr, result, map);
-            curr = curr.substring(0, curr.length()-1);
         }
+        Integer p = digits.charAt(point) - '0';
+        String mapValues = map.get(p);
+        for(int i=0;i<mapValues.length();i++){
+            current += mapValues.charAt(i);
+            backtrack(result, digits, map, current, point + 1);
+            current = current.substring(0, current.length()-1);
+        }
+
     }
 }
