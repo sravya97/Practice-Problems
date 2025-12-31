@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sravya97/Practice-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sravya97/Practice-Problems/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/sravya97/Practice-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sravya97/Practice-Problems/tree/master/0035-search-insert-position) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sravya97/Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sravya97/Practice-Problems/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/sravya97/Practice-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sravya97/Practice-Problems/tree/master/0061-rotate-list) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sravya97/Practice-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sravya97/Practice-Problems/tree/master/0169-majority-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sravya97/Practice-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
