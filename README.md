@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sravya97/Practice-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sravya97/Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sravya97/Practice-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sravya97/Practice-Problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/sravya97/Practice-Problems/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sravya97/Practice-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sravya97/Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/sravya97/Practice-Problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sravya97/Practice-Problems/tree/master/0257-binary-tree-paths) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/sravya97/Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sravya97/Practice-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sravya97/Practice-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sravya97/Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sravya97/Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sravya97/Practice-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sravya97/Practice-Problems/tree/master/0079-word-search) |
