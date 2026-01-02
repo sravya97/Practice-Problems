@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/sravya97/Practice-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sravya97/Practice-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sravya97/Practice-Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sravya97/Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sravya97/Practice-Problems/tree/master/0066-plus-one) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sravya97/Practice-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sravya97/Practice-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sravya97/Practice-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sravya97/Practice-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sravya97/Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sravya97/Practice-Problems/tree/master/0125-valid-palindrome) |
